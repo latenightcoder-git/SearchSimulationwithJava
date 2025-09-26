@@ -6,9 +6,9 @@ A simple **Java-based console application** that simulates a Google search exper
 
 ## Technologies Used
 
-Java 17 (or higher)
-JUnit 5 for testing
-TreeMap and ArrayList for data storage
+- Java 17 (or higher) 
+- JUnit 5 for testing 
+- TreeMap and ArrayList for data storage
 
 ---
 
