@@ -1,0 +1,251 @@
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 4
+No data available.
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 1
+Enter search keyword: Food
+Enter number of results for this keyword: 4
+Enter result URL 1: https://www.allrecipes.com
+Enter result URL 2: https://www.seriouseats.com
+Enter result URL 3: https://www.foodnetwork.com
+Enter result URL 4: https://www.bbcgoodfood.com
+Search results added successfully!
+
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 2
+Enter keyword to search: Food
+Results for 'Food':
+ - https://www.allrecipes.com
+ - https://www.seriouseats.com
+ - https://www.foodnetwork.com
+ - https://www.bbcgoodfood.com
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 1
+Enter search keyword: AI
+Enter number of results for this keyword: 2
+Enter result URL 1: https://openai.com
+Enter result URL 2: https://arxiv.org
+Search results added successfully!
+
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 1
+Enter search keyword: Technology
+Enter number of results for this keyword: 4
+Enter result URL 1: https://www.techcrunch.com
+Enter result URL 2: https://www.theverge.com
+Enter result URL 3: https://www.wired.com
+Enter result URL 4: https://www.cnet.com
+Search results added successfully!
+
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 1
+Enter search keyword: News
+Enter number of results for this keyword: 4
+Enter result URL 1: https://www.bbc.com/news
+Enter result URL 2: https://www.reuters.com
+Enter result URL 3: https://edition.cnn.com
+Enter result URL 4: https://www.aljazeera.com
+Search results added successfully!
+
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 4
+
+All Stored Search Data:
+Keyword: AI
+   - https://openai.com
+   - https://arxiv.org
+Keyword: Food
+   - https://www.allrecipes.com
+   - https://www.seriouseats.com
+   - https://www.foodnetwork.com
+   - https://www.bbcgoodfood.com
+Keyword: News
+   - https://www.bbc.com/news
+   - https://www.reuters.com
+   - https://edition.cnn.com
+   - https://www.aljazeera.com
+Keyword: Technology
+   - https://www.techcrunch.com
+   - https://www.theverge.com
+   - https://www.wired.com
+   - https://www.cnet.com
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 2
+Enter keyword to search: News
+Results for 'News':
+ - https://www.bbc.com/news
+ - https://www.reuters.com
+ - https://edition.cnn.com
+ - https://www.aljazeera.com
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 5
+
+Choose sorting option:
+1. Sort by Keyword (Alphabetical - Default in TreeMap)
+2. Sort by Number of Results (Descending)
+1
+
+All Stored Search Data:
+Keyword: AI
+   - https://openai.com
+   - https://arxiv.org
+Keyword: Food
+   - https://www.allrecipes.com
+   - https://www.seriouseats.com
+   - https://www.foodnetwork.com
+   - https://www.bbcgoodfood.com
+Keyword: News
+   - https://www.bbc.com/news
+   - https://www.reuters.com
+   - https://edition.cnn.com
+   - https://www.aljazeera.com
+Keyword: Technology
+   - https://www.techcrunch.com
+   - https://www.theverge.com
+   - https://www.wired.com
+   - https://www.cnet.com
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 5
+
+Choose sorting option:
+1. Sort by Keyword (Alphabetical - Default in TreeMap)
+2. Sort by Number of Results (Descending)
+2
+
+Sorted by Number of Results:
+Keyword: Food (Results: 4)
+   - https://www.allrecipes.com
+   - https://www.seriouseats.com
+   - https://www.foodnetwork.com
+   - https://www.bbcgoodfood.com
+Keyword: News (Results: 4)
+   - https://www.bbc.com/news
+   - https://www.reuters.com
+   - https://edition.cnn.com
+   - https://www.aljazeera.com
+Keyword: Technology (Results: 4)
+   - https://www.techcrunch.com
+   - https://www.theverge.com
+   - https://www.wired.com
+   - https://www.cnet.com
+Keyword: AI (Results: 2)
+   - https://openai.com
+   - https://arxiv.org
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 3
+Enter keyword to delete: AI
+Keyword 'AI' removed successfully!
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 4
+
+All Stored Search Data:
+Keyword: Food
+   - https://www.allrecipes.com
+   - https://www.seriouseats.com
+   - https://www.foodnetwork.com
+   - https://www.bbcgoodfood.com
+Keyword: News
+   - https://www.bbc.com/news
+   - https://www.reuters.com
+   - https://edition.cnn.com
+   - https://www.aljazeera.com
+Keyword: Technology
+   - https://www.techcrunch.com
+   - https://www.theverge.com
+   - https://www.wired.com
+   - https://www.cnet.com
+
+===== Google Search Simulation =====
+1. Add Search Data
+2. Search Keyword
+3. Delete Keyword
+4. Display All
+5. Custom Sorting
+6. Exit
+Enter your choice: 6
+Exiting... Thank you!
+
+Process finished with exit code 0
